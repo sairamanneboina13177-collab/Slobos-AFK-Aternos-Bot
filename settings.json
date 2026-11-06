@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sairamgamer-ZMxL.aternos.me:64897",
+    "ip": "sairamgamer-ZMxL.aternos.me",
     "port": 64897,
     "version": "26.3",
     "try-creative": false
